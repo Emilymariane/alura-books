@@ -7,6 +7,7 @@
 
 :root {
     --cor-de-fundo: #FF1493;
+    --branco: #FFFFFF;
     --laranja: #FFFFFF;
     --azul-degrade: linear-gradient(97.54deg, #48D1CC 35.49%, #FF4500 165.37%);
     --fonte-principal: "Poppins";
